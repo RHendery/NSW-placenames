@@ -4,12 +4,16 @@
     <name><![CDATA[Places ending in "-dra" or similar]]></name>
     <Style id="icon-959-D698AD-labelson-nodesc">
       <IconStyle>
-        <color>ffad98d6</color>
+        <color>648FFF00</color>
         <scale>1.1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
         </Icon>
       </IconStyle>
+      <LabelStyle>
+        <color>7fffaaff</color>
+      <scale>1.5</scale>
+      </LabelStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
