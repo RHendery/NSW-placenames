@@ -1,0 +1,708 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Allabandra Gully", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.269004, -35.480104, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Banandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.169028, -34.763457, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Banandra State Forest", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.20236, -34.713456, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindogundra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.302303, -33.130099, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindogundra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.352303, -33.163432, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindogundra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.335636, -33.130099, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boduldura", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.102287, -32.880091, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boduldura Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.068953, -32.830092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boginderra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.635662, -34.163441, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boginderra Hills", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.635664, -34.280108, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bootheragandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.852349, -33.546791, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bootheragandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.872626, -33.538457, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Brymedura", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.7023, -33.130095, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Brymedura", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.785629, -33.130095, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Brymedura", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.823406, -33.116205, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bulgandramine", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.1023, -32.596767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bulgandramine", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.202298, -32.6301, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cajaldura Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.485682, -35.330111, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Canowindra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.6523, -33.56343, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Canowindra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.66897, -33.61343, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Canowindra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.67702, -33.532041, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Carlgandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.668945, -31.705094, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootamundra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.00235, -34.630115, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootamundra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.018997, -34.680105, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootamundra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.035662, -34.646771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootralantra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.869006, -36.263433, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootralantra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.919006, -36.313433, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootralantra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.835673, -36.263433, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootralantra Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.85234, -36.263433, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootralantra Lake", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.885672, -36.246766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dawindurai", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.967841, -32.581759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Geraldra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.885661, -34.380105, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Geraldra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.902327, -34.363438, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Geraldra Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.902327, -34.363438, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gilgandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.668945, -31.705094, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gilgandra State Forest", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.652279, -31.721761, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gingininderra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.05482, -35.213706, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ginninderra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.068986, -35.163428, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ginninderra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.05482, -35.213706, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gooandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502338, -35.796769, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gooandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.535671, -35.780102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gooandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.535671, -35.796769, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gooandra Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502338, -35.780102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobaragandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.419, -35.380102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobarragandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.419, -35.380102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobarragandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.552333, -35.496768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobarragandra River", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502333, -35.430101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobarragandra Station", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.419, -35.380102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobragandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.419, -35.380102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gungoandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.152329, -35.896763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gungoandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.185661, -35.896762, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gungoandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.152329, -35.896763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gunnegaldra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.834514, -31.698435, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hyandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.435631, -32.880098, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hyandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.468956, -32.296763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hyandra Well", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.435624, -32.380097, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jindera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.852369, -35.963453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jindera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.885702, -35.963453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jindera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.919035, -35.963452, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jindera Hills", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.835703, -36.013453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kamandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.252304, -33.146766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kiandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.495395, -35.877325, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kiandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.50234, -35.880102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kiandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.569005, -35.880102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kiandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.552338, -35.830102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kindra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.202345, -34.780113, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kindra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.277344, -34.805112, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kindra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.385675, -34.746778, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Manildra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.625077, -33.198985, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Manildra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.63563, -33.130096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullanjandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.142919, -35.900394, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullanjandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.185696, -35.896783, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullanjandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.135697, -35.91345, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullengandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.009588, -35.900396, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullengandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.135697, -35.91345, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullengandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.185696, -35.896783, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullengandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.135697, -35.91345, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mulyanjandera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.184585, -35.898449, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mundawaddra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.96902, -35.396784, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Narrandera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.502356, -34.73012, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Narrandera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.552355, -34.713453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Narrandera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.552355, -34.746786, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Talagandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.218982, -35.113427, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Talagandra Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.235649, -35.113427, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tarrabandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 143.23623, -29.667087, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tarrabandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.169001, -35.146771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tarrabandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.185667, -35.113437, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tarrabandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502356, -36.896772, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.819006, -35.063441, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.835671, -34.996774, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.852291, -31.596769, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.935621, -31.463434, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.768938, -31.213427, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.785636, -33.663429, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.985615, -32.330092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.035639, -32.946768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.718938, -31.19676, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.752303, -33.680096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.068934, -31.330091, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.735605, -31.213427, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Knob", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.702304, -33.646763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tenandra Plain", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.052305, -32.946768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.942314, -31.034008, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderra Tank", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.916481, -31.039286, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tintaldra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.934574, -36.048442, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ulandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.902333, -34.763439, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ulandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.902334, -34.813439, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ulandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.819, -34.746773, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 144.565389, -30.918188, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.676791, -33.187069, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Weandre Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.968956, -32.930093, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Weandre Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.00229, -32.996759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Weandre Pinnacle", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.03562, -32.996759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 143.817927, -32.948476, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 144.337644, -33.153472, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.13569, -33.196797, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.894838, -33.969281, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.919005, -34.030114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra Anabranch", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 143.85543, -33.031809, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra Billabong", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 143.01907, -34.280155, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.26902, -33.196796, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.518955, -32.230096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Windora", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.92728, -32.355092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Woolandra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.518955, -32.230096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wyadra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.411244, -33.500128, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wyaldra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.652271, -32.363419, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wyaldra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.6856, -32.371752, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wyaldra Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.602271, -32.31342, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yaddra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.613164, -33.141504, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yaddra", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.63566, -33.246782, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yethera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.568974, -32.530105, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Baldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.499241, -32.842875, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Baldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502296, -32.86343, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ballandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.035686, -34.04679, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ballandry Tank", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.102352, -34.080123, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Berenderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 150.151147, -32.031748, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindogandri", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.302303, -33.130099, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindogandri", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.352303, -33.163432, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindogandri Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.335636, -33.130099, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bindoury", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.384501, -32.665088, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.499241, -32.842875, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bulgandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.602368, -35.613455, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bulgandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.6357, -35.613454, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bulgandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.639866, -35.585121, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bumbaldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.11898, -32.396776, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bumbaldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.425922, -33.866488, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bumbaldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.435645, -33.896766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bumbaldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502311, -33.913432, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bumbaldry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.418979, -33.896766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bumbaldry Hills", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.418978, -33.846766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cajildry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.302308, -32.246774, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coogoorderoy", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.01786, -32.865102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootamundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.018997, -34.680105, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootamundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.035662, -34.646771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cootamundry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.019, -34.630104, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Delladerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.534522, -33.181764, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dellateroy Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.802342, -35.263441, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dilladerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.535627, -32.696763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dilladerry Spring", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.435627, -32.563431, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dilladery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.602289, -32.430096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dulah Dulah Derry Lagoon", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.069013, -34.738448, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dulladerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.618966, -33.21343, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Dulladerry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.618966, -33.230096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Emogandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.268955, -31.963432, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Emogandry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502284, -31.930096, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eribendery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.356224, -33.127618, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eribendery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.382613, -33.177062, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eurunderee", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.602273, -32.51342, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eurundury", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.635606, -32.488419, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eurundury", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.652272, -32.480086, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eurundury Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.718939, -32.546752, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Euwarderry Lagoon", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.202359, -34.596789, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gaindri", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.484521, -33.031764, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gereldery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.819048, -35.696797, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gilguldry Waterhole", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.442554, -31.240374, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gindantherie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 150.252271, -33.163414, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gindantherie Pinnacle", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 150.191161, -33.174804, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ginninderry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.05482, -35.213706, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ginninginninderry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.05482, -35.213706, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gobondery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.568977, -32.763439, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gobondery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.585642, -32.680105, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gobondry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.568977, -32.763439, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gobondry Mountains", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.56898, -32.796772, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gogeldrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.302356, -34.546788, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gogeldrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.33569, -34.613455, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobaguthrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.35122, -32.865118, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobothery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.818994, -33.14678, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goobothery Ridge", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.768995, -33.130114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gooburthery Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.735651, -33.513439, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Googodery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.785625, -32.863428, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Goondudery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.417834, -32.631755, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gooniguldry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.13456, -33.231787, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gunnegaldrie Tank", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.735627, -31.663436, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gunniguldrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.13456, -33.231787, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ilgindrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.185657, -33.263443, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ilgindrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.224266, -33.200387, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jerilderie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.735711, -35.346796, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jerilderie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.746822, -35.357907, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kildary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.002339, -34.130114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kildary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.035673, -34.263447, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kildary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.119004, -34.146779, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Kildary Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.98567, -34.280114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Morundurey", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 150.118939, -33.080082, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mulyandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.118979, -33.530101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mulyandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.135645, -33.530101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mulyandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.169811, -33.550379, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mulyandry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.25231, -33.563434, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mundawaddery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.885693, -35.396784, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mundawaddery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.916804, -35.416506, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mundawaddery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.93569, -35.446784, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mundawaddery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.93569, -35.430117, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Timaldrie Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.952306, -32.863436, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tindarey", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.918981, -31.063453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tindarey", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.984535, -31.024841, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tindarey Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.085645, -31.080118, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tindayrey", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.892594, -31.138453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tindayrey", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.95454, -31.130952, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.252325, -35.763428, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.26899, -35.696761, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.31899, -35.69676, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.335655, -35.663427, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderry Mountains", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.302324, -35.746761, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tinderry Range", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.452324, -35.913426, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tindery Range", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.452324, -35.913426, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Uardry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.302369, -34.346798, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ulundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502275, -31.213429, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Uranquintry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.252349, -35.113447, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Uranquintry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.25235, -35.19678, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Walbundrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.719034, -35.696787, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Walbundrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.735699, -35.663453, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Walbundrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.7357, -35.68012, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.80234, -34.013449, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallandry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.902339, -34.013448, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallanthery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.835679, -33.34679, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallanthery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.83568, -33.39679, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wambandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.917848, -31.781768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wandry or Muddy Lagoon", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.052312, -33.446769, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wardry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.707607, -33.108726, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wardry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.752328, -33.080114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wardry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.835662, -33.230114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Warraderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.218979, -33.696767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Warraderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.21898, -33.763434, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Warraderry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.246757, -33.716489, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Warraderry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.21898, -33.746768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Waughandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.235626, -30.963441, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Waughgundrie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.034506, -32.615092, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Welantry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.001233, -33.365122, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willamundry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.185656, -33.196777, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willandry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.885672, -33.980114, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willanthery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.835679, -33.34679, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Willanthry Weir", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.869012, -33.34679, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wollomundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.317877, -33.265109, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yarrabundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.60233, -33.296783, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yarragundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.185684, -35.146781, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yarragundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.20235, -35.146781, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yullundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.618961, -32.863429, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yullundry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.685626, -32.830095, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Beelbangera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.10235, -34.24679, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bogandyera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.935683, -35.896775, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bogandyera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.95235, -35.913442, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bogandyera Mountain", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.935683, -35.896775, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bungewadgerah", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.601176, -32.248429, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cookamidgera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.268972, -33.246766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cookamidgera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.300638, -33.226766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cookamidgera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.313692, -33.146766, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gundidgera", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.184475, -30.298423, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gunidgera Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.35225, -30.213422, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yurugaidyurai", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.951174, -32.598426, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Algudgerie Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.002377, -35.580128, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Algudgerie Weir", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 145.602379, -35.330131, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Balbudgerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.967841, -32.581759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Balrudgery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.502296, -32.846764, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Berry Jerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.002352, -35.046782, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Berry Jerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.185677, -34.69678, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Berry Jerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.21901, -34.696779, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Berry Jerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.269009, -34.696779, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Berry Jerry Lagoon", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.069017, -35.013448, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bolderogery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.602294, -32.813429, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boreegerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.06793, -35.525404, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boreegerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.085708, -35.546793, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boridgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.584527, -33.581764, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bundidgerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.635687, -34.730119, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bundidgerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.63569, -34.780119, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bundidgerry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.752352, -34.780118, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bundidjarie Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.602354, -34.730119, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cocudgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.56786, -33.748431, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coradgerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.23562, -31.596765, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.002304, -32.813435, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.035638, -32.896768, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corradgery Range", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.818982, -33.446771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corridgeree", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.852328, -36.646757, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corridgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.768981, -33.313438, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corridgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.798981, -33.347327, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Corridgery Ridge", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.799815, -33.346215, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Douwingerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.967841, -32.581759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Durridgere", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.8856, -32.180084, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Durridgere Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.91893, -32.180083, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eumungerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.535617, -31.946762, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eumungerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.540062, -31.962874, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eumungerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.627282, -31.946762, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Galwadgere", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.985619, -32.646759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Galwadgerie Gully", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.05228, -32.613425, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gerogery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.902366, -35.846786, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gerogery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.002364, -35.830118, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gerogery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.019031, -35.871784, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gerogery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.969032, -35.863452, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gerogery Ridge", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.91903, -35.830119, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.83562, -31.230102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.902285, -31.230101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.918674, -31.248712, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ilgingerry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.11895, -32.580091, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mandagery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.45758, -33.243153, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mandagery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.534245, -33.238986, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mandagery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.618967, -33.296763, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mandagery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.8159, -33.065928, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mandagery Ridge", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.568968, -33.280097, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minijary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.602325, -33.880107, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minjary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.126503, -35.225382, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minjary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.135669, -35.196771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minjary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.135669, -35.19816, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minjary", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.169003, -35.263438, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minjary Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.169002, -35.196771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Minjary Mountain", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.119003, -35.213438, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullengudgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.418966, -31.696773, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mullengudgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.468964, -31.596772, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mungery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.863413, -32.485103, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mungery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.918968, -32.480102, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mungery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.668938, -31.096761, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mungery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.668938, -31.080094, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Murrumbidgerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.73562, -32.396761, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Murrumbidgerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.73562, -32.446761, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Murrumbidgerie Fall", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.702287, -32.405095, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Nubingerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.668956, -32.513428, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Teridgerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.835599, -30.896759, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Teridgerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.894764, -30.801481, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Teridgerie Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.618934, -30.680095, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Trajere", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.352307, -33.463432, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Trajere", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 148.402307, -33.496765, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wallangery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 144.529299, -32.525413, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wantabadgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.72484, -35.022886, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wantabadgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.752339, -34.996775, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wantabadgery Lagoon", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.702341, -35.063442, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wantabudgery Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 149.01894, -31.663425, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Waradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 143.835726, -34.41348, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Waradgery", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 144.685714, -34.463471, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Waradgery Beach", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.019028, -34.580125, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Waradgery Reef", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 144.135741, -35.630148, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wiradjuri", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.38569, -34.530121, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yarradigerie", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 147.535637, -32.196772, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yarranjerry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.985677, -34.446781, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yarranjerry Creek", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 146.91901, -34.363448, 0.0 ] } }
+
+]
+}
