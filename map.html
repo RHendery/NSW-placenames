@@ -20,7 +20,8 @@
     <div id="capture"></div>
     <script>
       var map;
-      var src = 'https://rhendery.github.io/NSW-placenames/dra.kml';
+      var dra = 'https://rhendery.github.io/NSW-placenames/dra.kml';
+      var dry = 'https://rhendery.github.io/NSW-placenames/dry.kml';
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -29,7 +30,7 @@
           mapTypeId: 'terrain'
         });
 
-        var kmlLayer = new google.maps.KmlLayer(src, {
+        var kmlLayer = new google.maps.KmlLayer(dra, {
           suppressInfoWindows: true,
           preserveViewport: false,
           map: map
